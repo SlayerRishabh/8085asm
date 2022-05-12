@@ -1,0 +1,3 @@
+MVI H,34H
+MVI L,ABH
+HLT

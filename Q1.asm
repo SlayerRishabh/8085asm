@@ -1,0 +1,3 @@
+MVI A,A5H
+MOV E,A
+HLT
